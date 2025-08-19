@@ -2,7 +2,7 @@
 
 ## 📁 Project Overview
 
-This project presents a comprehensive analysis of household demographic data using Python. The goal is to derive insights from a real-world-like dataset by applying various statistical techniques such as central tendency, dispersion, data visualization, and distribution analysis. The project is executed in alignment with academic and professional standards.
+This project presents a comprehensive analysis of household demographic data using Python. The goal is to derive insights from a real-world-like dataset by applying various statistical techniques such as central tendency, dispersion, data visualization, and distribution analysis.
 
 ---
 
